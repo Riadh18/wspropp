@@ -1,0 +1,25 @@
+h1{
+    font-style: italic;
+    color: blueviolet;
+    margin-left: 13cm;
+
+} 
+h2{
+    font-style: italic;
+    color: rgb(73, 28, 73);
+    margin-left:  13cm;
+}  
+h3{
+     font-style: italic;
+
+    color: purple;
+    margin-left: 13cm;
+}
+.butt{
+    color: green;
+    background-color: aliceblue;
+    
+}
+.pics{
+  margin-left: 10cm;
+}
